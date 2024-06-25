@@ -1,1 +1,4 @@
 # Email_spam_classifier
+An email spam classifier is a machine learning model designed to identify and filter out unwanted or unsolicited emails, commonly known as spam. By automatically detecting spam emails, this classifier helps in maintaining a clean and efficient email inbox, protecting users from potential phishing attacks, scams, and unwanted advertisements.
+
+get this dataset from kaggle and train this using machine learning algorithm also perforn some natural language processing technique like Tokenization and stopwords removal and built a pipeline that consist of vectorizer and a classifier and train the model using that pipeline after the accuracy is not stasify then i balanced the dataset and their is significant change in accuracy that can shown in classification report and confusion matrix
